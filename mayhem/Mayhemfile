@@ -1,5 +1,5 @@
 project: esp32_bluetooth_classic_sniffer
-target: fuzz_hci
+target: ad_parser
 
 cmds:
-  - cmd: /fuzz_hci
+  - cmd: /ad_parser
